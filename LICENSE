@@ -1,0 +1,49 @@
+MIT License
+
+Copyright (c) 2026 visa2code
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Additional Notes:
+
+1. Model Licenses:
+   - Llama 3.2 models are subject to Meta's Llama License
+   - Please review: <https://llama.meta.com/llama-downloads/>
+
+2. Dataset Licenses:
+   - FineTome-100k dataset has its own license
+   - Please review: <https://huggingface.co/datasets/mlabonne/FineTome-100k>
+
+3. Library Licenses:
+   - Unsloth: Apache 2.0 License
+   - Transformers: Apache 2.0 License
+   - PyTorch: BSD License
+   - Other dependencies maintain their respective licenses
+
+4. Usage Terms:
+   - This code is for educational and research purposes
+   - Commercial use is permitted under MIT License terms
+   - Model outputs may require separate licensing based on the base model used
+   - Always comply with the licenses of models and datasets you use
+
+5. Attribution:
+   - If you use this code, attribution is appreciated but not required
+   - Citation format is provided in README.md
