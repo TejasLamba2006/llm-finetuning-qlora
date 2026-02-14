@@ -1,4 +1,4 @@
-# 🚀 Fine-Tuning LLMs with QLoRA - Complete Guide
+# Fine-Tuning LLMs with QLoRA - Complete Guide
 
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/EYtGKh7kNMQ)
 [![Open In Colab](https://img.shields.io/badge/Colab-Open%20Notebook-orange?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/drive/1_XzzJCWiuKPzKYIHNqRwoR5H5k_KAUQR?usp=sharing)
@@ -29,7 +29,7 @@ Created by [TejasLamba2006](https://github.com/TejasLamba2006) | Complete YouTub
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This repository contains a complete implementation of **Large Language Model Fine-Tuning** using:
 
@@ -39,13 +39,13 @@ This repository contains a complete implementation of **Large Language Model Fin
 - **Library**: Unsloth (2x faster training, 60% less memory)
 - **Hardware**: Free T4 GPU on Google Colab (or local GPU)
 
-### 🎥 Full Video Tutorial
+### Full Video Tutorial
 
 Watch the complete tutorial in Hinglish on YouTube: [**INSERT YOUR VIDEO LINK**]
 
 ---
 
-## ✨ Features
+## Features
 
 - ✅ **Memory Efficient**: Uses 4-bit quantization (QLoRA)
 - ✅ **Fast Training**: Unsloth library provides 2x speedup
@@ -57,7 +57,7 @@ Watch the complete tutorial in Hinglish on YouTube: [**INSERT YOUR VIDEO LINK**]
 
 ---
 
-## 📚 What You'll Learn
+## What You'll Learn
 
 ### Concepts Covered
 
@@ -92,7 +92,7 @@ Watch the complete tutorial in Hinglish on YouTube: [**INSERT YOUR VIDEO LINK**]
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 ### Hardware
 
@@ -117,7 +117,7 @@ datasets
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Google Colab (Recommended for Beginners)
 
@@ -131,7 +131,7 @@ datasets
    Runtime → Change runtime type → T4 GPU
    ```
 
-3. **Run all cells!** 🎉
+3. **Run all cells!** 
 
 ### Option 2: Local Setup
 
@@ -163,7 +163,7 @@ datasets
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 llm-finetuning-qlora/
@@ -189,7 +189,7 @@ llm-finetuning-qlora/
 
 ---
 
-## 🔍 Detailed Explanation
+## Detailed Explanation
 
 ### Step 1: Installation
 
@@ -307,7 +307,7 @@ Response: "The key principles of investment include:
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 ### Option 1: Save Locally
 
@@ -394,7 +394,7 @@ pip install unsloth transformers trl
 
 ---
 
-## 📚 Resources
+## Resources
 
 ### Documentation
 
@@ -420,7 +420,7 @@ pip install unsloth transformers trl
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -441,7 +441,7 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -452,7 +452,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Meta AI** for Llama 3.2 model
 - **Hugging Face** for Transformers, TRL, and Datasets libraries
@@ -471,13 +471,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Got Questions?
 
-- 💬 Comment on the YouTube video
-- 🐛 Open an issue on GitHub
-- 📧 Email: <your.email@example.com>
+- Comment on the YouTube video
+- Open an issue on GitHub
+- Email: <your.email@example.com>
 
 ---
 
-## 🌟 Show Your Support
+## Show Your Support
 
 If this project helped you, please:
 
@@ -497,7 +497,7 @@ If this project helped you, please:
 
 ---
 
-## 🎓 Citation
+## Citation
 
 If you use this code in your research, please cite:
 
